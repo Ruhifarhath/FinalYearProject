@@ -1,0 +1,501 @@
+Age,Weight,Flexibility Level,Injury,Medical Condition,Pose,Risk Level
+50,42,Low,Shoulder Pain,Arthritis,Child’s Pose,Caution
+60,112,Moderate,None,High Blood Pressure,Child’s Pose,Caution
+55,68,High,Hip Injury,Digestive Issues,Child’s Pose,Caution
+40,45,Low,Herniated Disc,None,Bound Angle Pose,Caution
+35,57,High,Shoulder Pain,Vertigo,Child’s Pose,Caution
+28,80,Moderate,Shoulder Pain,Pregnancy,Child’s Pose,Avoid
+41,103,Low,None,Arthritis,Bound Angle Pose,Avoid
+52,55,Low,Back Pain,High Blood Pressure,Child’s Pose,Avoid
+33,74,Moderate,Back Pain,None,Bound Angle Pose,Caution
+35,111,Moderate,Sciatica,Vertigo,Child’s Pose,Caution
+66,73,Moderate,None,High Blood Pressure,Child’s Pose,Caution
+29,98,High,Ankle Injury,Pregnancy,Child’s Pose,Avoid
+46,119,High,Hip Injury,Arthritis,Child’s Pose,Caution
+29,61,High,Ankle Injury,Vertigo,Bound Angle Pose,Caution
+25,107,Low,Sciatica,Vertigo,Child’s Pose,Avoid
+34,97,Moderate,Knee Injury,Pregnancy,Child’s Pose,Caution
+68,79,Low,Shoulder Pain,Digestive Issues,Bound Angle Pose,Safe
+19,86,Low,None,Vertigo,Bound Angle Pose,Avoid
+26,118,Low,None,Pregnancy,Child’s Pose,Avoid
+44,106,Moderate,Herniated Disc,None,Bound Angle Pose,Caution
+29,50,Moderate,Shoulder Pain,Arthritis,Bound Angle Pose,Caution
+40,88,Low,Ankle Injury,Pregnancy,Bound Angle Pose,Caution
+35,78,Low,None,Arthritis,Child’s Pose,Avoid
+30,57,Low,Sciatica,Arthritis,Bound Angle Pose,Avoid
+20,101,High,Back Pain,Digestive Issues,Bound Angle Pose,Caution
+35,66,High,Back Pain,High Blood Pressure,Bound Angle Pose,Caution
+30,78,Moderate,None,Pregnancy,Child’s Pose,Avoid
+21,83,High,Hip Injury,Vertigo,Child’s Pose,Caution
+19,73,Low,Knee Injury,Pregnancy,Child’s Pose,Caution
+53,54,Low,Herniated Disc,Arthritis,Child’s Pose,Caution
+47,48,Low,Hip Injury,High Blood Pressure,Child’s Pose,Caution
+44,51,High,Shoulder Pain,Digestive Issues,Bound Angle Pose,Safe
+65,106,Low,Knee Injury,Vertigo,Bound Angle Pose,Caution
+39,91,Moderate,Back Pain,Vertigo,Child’s Pose,Avoid
+57,48,Moderate,Back Pain,Digestive Issues,Bound Angle Pose,Avoid
+61,46,High,Shoulder Pain,Vertigo,Child’s Pose,Caution
+32,96,Moderate,None,Pregnancy,Child’s Pose,Avoid
+64,91,High,Back Pain,Arthritis,Child’s Pose,Avoid
+20,70,High,Shoulder Pain,Pregnancy,Bound Angle Pose,Avoid
+41,77,Low,Hip Injury,Digestive Issues,Bound Angle Pose,Caution
+63,109,High,None,Vertigo,Child’s Pose,Avoid
+67,95,High,Knee Injury,Pregnancy,Child’s Pose,Avoid
+66,47,Moderate,Shoulder Pain,Arthritis,Child’s Pose,Caution
+31,74,Moderate,Sciatica,None,Child’s Pose,Caution
+34,82,Moderate,Back Pain,Vertigo,Bound Angle Pose,Avoid
+42,78,Low,Ankle Injury,High Blood Pressure,Bound Angle Pose,Avoid
+43,40,Low,Knee Injury,High Blood Pressure,Bound Angle Pose,Caution
+32,59,Moderate,Herniated Disc,Arthritis,Child’s Pose,Caution
+43,50,Low,Sciatica,Digestive Issues,Child’s Pose,Safe
+27,45,Low,Hip Injury,Pregnancy,Child’s Pose,Caution
+59,86,High,Knee Injury,Arthritis,Child’s Pose,Caution
+19,57,Moderate,Ankle Injury,Pregnancy,Bound Angle Pose,Caution
+26,83,High,Herniated Disc,Vertigo,Child’s Pose,Caution
+53,86,Moderate,Knee Injury,Digestive Issues,Child’s Pose,Caution
+36,102,Moderate,Herniated Disc,Digestive Issues,Child’s Pose,Avoid
+28,118,Moderate,Shoulder Pain,Vertigo,Bound Angle Pose,Caution
+61,70,Low,Knee Injury,Pregnancy,Bound Angle Pose,Avoid
+67,54,Low,Back Pain,Arthritis,Child’s Pose,Avoid
+20,113,Low,Herniated Disc,Arthritis,Bound Angle Pose,Caution
+22,43,Moderate,Knee Injury,None,Child’s Pose,Caution
+32,62,Low,Back Pain,Pregnancy,Bound Angle Pose,Caution
+19,65,High,Ankle Injury,Vertigo,Bound Angle Pose,Avoid
+19,84,High,Knee Injury,Pregnancy,Bound Angle Pose,Caution
+20,69,High,Ankle Injury,Vertigo,Bound Angle Pose,Caution
+18,70,Low,Herniated Disc,Vertigo,Bound Angle Pose,Avoid
+28,103,Moderate,Shoulder Pain,Pregnancy,Child’s Pose,Caution
+61,40,High,None,None,Child’s Pose,Caution
+59,106,High,Back Pain,Digestive Issues,Child’s Pose,Avoid
+49,89,High,None,Vertigo,Bound Angle Pose,Avoid
+50,85,Moderate,Back Pain,Arthritis,Child’s Pose,Caution
+29,98,Moderate,Shoulder Pain,High Blood Pressure,Bound Angle Pose,Caution
+30,116,High,Hip Injury,Pregnancy,Bound Angle Pose,Caution
+28,83,High,Back Pain,Pregnancy,Child’s Pose,Caution
+52,64,High,Herniated Disc,None,Bound Angle Pose,Caution
+36,102,Low,Hip Injury,Digestive Issues,Bound Angle Pose,Caution
+62,52,Moderate,Hip Injury,High Blood Pressure,Bound Angle Pose,Avoid
+64,47,Low,Knee Injury,None,Bound Angle Pose,Caution
+33,110,Low,Sciatica,Pregnancy,Bound Angle Pose,Caution
+35,89,Moderate,Back Pain,Digestive Issues,Child’s Pose,Caution
+45,53,High,Shoulder Pain,None,Child’s Pose,Safe
+59,90,Low,Ankle Injury,Pregnancy,Bound Angle Pose,Caution
+19,72,Moderate,Sciatica,High Blood Pressure,Child’s Pose,Avoid
+62,41,Moderate,Herniated Disc,Pregnancy,Child’s Pose,Avoid
+40,84,Low,Ankle Injury,Digestive Issues,Child’s Pose,Safe
+56,88,Moderate,None,None,Bound Angle Pose,Safe
+50,60,High,Hip Injury,Vertigo,Child’s Pose,Avoid
+36,70,High,Back Pain,High Blood Pressure,Bound Angle Pose,Caution
+38,46,Low,Back Pain,None,Bound Angle Pose,Avoid
+46,101,Low,Shoulder Pain,Arthritis,Child’s Pose,Caution
+19,92,Low,Back Pain,Vertigo,Bound Angle Pose,Avoid
+35,77,Low,Back Pain,Pregnancy,Child’s Pose,Avoid
+32,98,Moderate,Knee Injury,Arthritis,Bound Angle Pose,Caution
+39,102,Low,Herniated Disc,Vertigo,Bound Angle Pose,Caution
+34,92,Low,Shoulder Pain,Arthritis,Child’s Pose,Caution
+29,84,High,None,Vertigo,Child’s Pose,Avoid
+25,67,Moderate,Shoulder Pain,High Blood Pressure,Bound Angle Pose,Caution
+64,97,Moderate,Sciatica,Arthritis,Bound Angle Pose,Caution
+51,101,Low,Knee Injury,Pregnancy,Bound Angle Pose,Caution
+61,61,Moderate,Shoulder Pain,Vertigo,Child’s Pose,Caution
+46,101,High,Knee Injury,Arthritis,Child’s Pose,Caution
+46,63,High,None,Arthritis,Child’s Pose,Avoid
+68,116,High,Sciatica,Vertigo,Child’s Pose,Caution
+36,84,High,Sciatica,Vertigo,Child’s Pose,Caution
+47,45,Moderate,Shoulder Pain,High Blood Pressure,Child’s Pose,Avoid
+30,116,Low,Sciatica,Digestive Issues,Child’s Pose,Safe
+21,69,High,Ankle Injury,High Blood Pressure,Bound Angle Pose,Caution
+68,118,Moderate,Knee Injury,Pregnancy,Bound Angle Pose,Caution
+47,98,Low,Hip Injury,Digestive Issues,Bound Angle Pose,Caution
+29,43,Moderate,Herniated Disc,High Blood Pressure,Bound Angle Pose,Caution
+22,40,Moderate,Sciatica,Arthritis,Bound Angle Pose,Avoid
+31,82,High,Shoulder Pain,None,Bound Angle Pose,Safe
+21,65,High,Herniated Disc,Pregnancy,Child’s Pose,Avoid
+25,86,Moderate,None,None,Bound Angle Pose,Safe
+51,94,High,Shoulder Pain,Pregnancy,Child’s Pose,Caution
+29,43,High,Shoulder Pain,High Blood Pressure,Bound Angle Pose,Caution
+22,81,Moderate,Sciatica,None,Bound Angle Pose,Safe
+55,48,Low,Shoulder Pain,Pregnancy,Bound Angle Pose,Avoid
+31,111,High,Sciatica,Arthritis,Bound Angle Pose,Caution
+55,98,High,Hip Injury,High Blood Pressure,Bound Angle Pose,Caution
+26,79,High,Sciatica,Digestive Issues,Child’s Pose,Safe
+57,69,Moderate,None,Digestive Issues,Child’s Pose,Safe
+62,56,Moderate,Knee Injury,Arthritis,Child’s Pose,Avoid
+20,98,High,Shoulder Pain,Vertigo,Child’s Pose,Caution
+69,110,Moderate,Shoulder Pain,Arthritis,Bound Angle Pose,Avoid
+46,77,High,Knee Injury,High Blood Pressure,Bound Angle Pose,Avoid
+60,42,Moderate,Herniated Disc,Arthritis,Bound Angle Pose,Caution
+23,57,High,Herniated Disc,Vertigo,Bound Angle Pose,Avoid
+51,51,Low,Herniated Disc,Digestive Issues,Bound Angle Pose,Caution
+35,85,High,Ankle Injury,Vertigo,Bound Angle Pose,Avoid
+48,106,High,Ankle Injury,Pregnancy,Bound Angle Pose,Caution
+30,64,Low,None,Digestive Issues,Bound Angle Pose,Safe
+40,84,Moderate,Hip Injury,Pregnancy,Bound Angle Pose,Caution
+30,116,Moderate,Herniated Disc,Arthritis,Bound Angle Pose,Caution
+27,76,Moderate,Herniated Disc,Vertigo,Bound Angle Pose,Caution
+23,98,Low,Shoulder Pain,Digestive Issues,Bound Angle Pose,Safe
+26,112,Low,Back Pain,Arthritis,Bound Angle Pose,Avoid
+68,116,Low,Herniated Disc,High Blood Pressure,Child’s Pose,Caution
+66,41,Moderate,Ankle Injury,Arthritis,Child’s Pose,Avoid
+20,72,Low,Shoulder Pain,High Blood Pressure,Bound Angle Pose,Avoid
+20,49,Low,Back Pain,Digestive Issues,Child’s Pose,Caution
+58,68,Low,Sciatica,None,Child’s Pose,Safe
+53,56,Moderate,None,Digestive Issues,Bound Angle Pose,Safe
+29,57,Moderate,Hip Injury,Arthritis,Child’s Pose,Caution
+21,89,Moderate,Back Pain,None,Bound Angle Pose,Caution
+41,99,Low,Knee Injury,None,Bound Angle Pose,Caution
+51,113,High,Shoulder Pain,Arthritis,Bound Angle Pose,Caution
+54,43,High,None,Pregnancy,Child’s Pose,Caution
+51,51,High,Sciatica,Vertigo,Bound Angle Pose,Caution
+68,112,Moderate,None,None,Bound Angle Pose,Safe
+22,112,Moderate,Shoulder Pain,High Blood Pressure,Bound Angle Pose,Caution
+65,115,High,Shoulder Pain,High Blood Pressure,Bound Angle Pose,Caution
+21,81,Moderate,None,High Blood Pressure,Child’s Pose,Caution
+32,49,High,Knee Injury,High Blood Pressure,Child’s Pose,Caution
+25,93,Moderate,Sciatica,None,Child’s Pose,Safe
+56,97,Moderate,Hip Injury,Pregnancy,Child’s Pose,Caution
+32,83,Low,Shoulder Pain,None,Bound Angle Pose,Safe
+33,100,Moderate,None,High Blood Pressure,Bound Angle Pose,Caution
+30,69,High,Knee Injury,None,Child’s Pose,Avoid
+35,59,Moderate,Hip Injury,Vertigo,Child’s Pose,Avoid
+52,68,High,Sciatica,None,Child’s Pose,Safe
+29,48,Low,Shoulder Pain,Vertigo,Bound Angle Pose,Caution
+21,93,Low,Hip Injury,None,Child’s Pose,Caution
+61,60,High,Hip Injury,Pregnancy,Child’s Pose,Caution
+32,80,Moderate,None,Pregnancy,Child’s Pose,Avoid
+47,40,Moderate,Herniated Disc,Vertigo,Bound Angle Pose,Caution
+45,109,High,Shoulder Pain,None,Bound Angle Pose,Safe
+36,70,Low,Knee Injury,High Blood Pressure,Bound Angle Pose,Avoid
+49,84,Moderate,Sciatica,None,Child’s Pose,Safe
+63,61,Moderate,Hip Injury,Vertigo,Bound Angle Pose,Avoid
+56,72,High,None,Arthritis,Bound Angle Pose,Caution
+36,44,Moderate,None,Arthritis,Child’s Pose,Avoid
+22,61,High,None,None,Child’s Pose,Safe
+34,44,High,Herniated Disc,Arthritis,Bound Angle Pose,Avoid
+65,57,Low,Shoulder Pain,None,Child’s Pose,Safe
+18,81,Moderate,Ankle Injury,Pregnancy,Bound Angle Pose,Caution
+51,78,High,Sciatica,Vertigo,Bound Angle Pose,Avoid
+64,64,Moderate,Knee Injury,None,Child’s Pose,Caution
+43,65,Low,Shoulder Pain,High Blood Pressure,Bound Angle Pose,Avoid
+58,92,High,Shoulder Pain,None,Child’s Pose,Safe
+26,116,Low,Herniated Disc,Digestive Issues,Child’s Pose,Caution
+20,49,High,Hip Injury,Pregnancy,Child’s Pose,Avoid
+62,119,Moderate,None,Vertigo,Child’s Pose,Avoid
+42,61,Low,Ankle Injury,None,Child’s Pose,Caution
+67,59,High,Hip Injury,None,Bound Angle Pose,Avoid
+23,56,Low,Back Pain,Vertigo,Child’s Pose,Caution
+40,68,Moderate,Herniated Disc,Digestive Issues,Bound Angle Pose,Avoid
+40,55,Moderate,Sciatica,None,Bound Angle Pose,Safe
+23,43,Low,None,Pregnancy,Child’s Pose,Caution
+49,104,Moderate,Ankle Injury,High Blood Pressure,Bound Angle Pose,Caution
+61,80,High,Ankle Injury,Vertigo,Child’s Pose,Caution
+52,100,Moderate,Hip Injury,Pregnancy,Child’s Pose,Caution
+21,108,High,Ankle Injury,None,Bound Angle Pose,Safe
+58,92,Moderate,Shoulder Pain,High Blood Pressure,Child’s Pose,Caution
+58,103,Moderate,Hip Injury,None,Child’s Pose,Avoid
+28,58,Moderate,Knee Injury,None,Bound Angle Pose,Caution
+26,57,Low,Sciatica,Vertigo,Bound Angle Pose,Avoid
+68,81,Low,Knee Injury,Vertigo,Bound Angle Pose,Caution
+49,109,Moderate,Knee Injury,Vertigo,Child’s Pose,Avoid
+20,83,Moderate,Herniated Disc,None,Child’s Pose,Caution
+37,115,Low,Back Pain,Arthritis,Bound Angle Pose,Caution
+40,95,Moderate,None,None,Child’s Pose,Safe
+69,77,Moderate,None,Digestive Issues,Bound Angle Pose,Safe
+55,81,Moderate,Ankle Injury,Arthritis,Bound Angle Pose,Avoid
+28,52,Low,Herniated Disc,Vertigo,Bound Angle Pose,Caution
+18,103,Moderate,Shoulder Pain,Digestive Issues,Bound Angle Pose,Caution
+47,111,High,Knee Injury,High Blood Pressure,Child’s Pose,Caution
+37,95,Moderate,Ankle Injury,High Blood Pressure,Child’s Pose,Avoid
+47,114,Moderate,Back Pain,Pregnancy,Bound Angle Pose,Caution
+47,53,Moderate,Knee Injury,Vertigo,Child’s Pose,Caution
+24,64,High,None,Vertigo,Bound Angle Pose,Avoid
+54,52,High,Knee Injury,High Blood Pressure,Child’s Pose,Caution
+49,118,Moderate,Hip Injury,Vertigo,Bound Angle Pose,Caution
+34,82,Moderate,Shoulder Pain,High Blood Pressure,Bound Angle Pose,Caution
+36,87,Moderate,Herniated Disc,Pregnancy,Child’s Pose,Caution
+38,65,Moderate,None,Vertigo,Bound Angle Pose,Caution
+39,79,Low,Ankle Injury,High Blood Pressure,Child’s Pose,Caution
+20,43,Moderate,Ankle Injury,Digestive Issues,Bound Angle Pose,Caution
+35,41,High,Knee Injury,Vertigo,Child’s Pose,Caution
+67,90,High,Shoulder Pain,High Blood Pressure,Bound Angle Pose,Caution
+30,88,Low,Back Pain,Vertigo,Bound Angle Pose,Caution
+38,55,High,Back Pain,Pregnancy,Bound Angle Pose,Caution
+41,86,Low,Sciatica,None,Bound Angle Pose,Safe
+38,66,Low,Shoulder Pain,Digestive Issues,Child’s Pose,Safe
+47,73,Moderate,None,Arthritis,Child’s Pose,Avoid
+18,57,High,None,Vertigo,Bound Angle Pose,Caution
+23,69,High,None,Pregnancy,Bound Angle Pose,Avoid
+25,66,High,Ankle Injury,Digestive Issues,Bound Angle Pose,Caution
+55,63,Low,None,Vertigo,Bound Angle Pose,Caution
+30,71,Low,Shoulder Pain,Digestive Issues,Child’s Pose,Safe
+66,68,Low,Ankle Injury,Digestive Issues,Bound Angle Pose,Safe
+45,61,Moderate,Sciatica,Pregnancy,Child’s Pose,Caution
+64,94,Moderate,Hip Injury,Vertigo,Bound Angle Pose,Caution
+26,72,Moderate,Ankle Injury,Digestive Issues,Child’s Pose,Safe
+60,43,High,Knee Injury,High Blood Pressure,Child’s Pose,Avoid
+44,86,Low,Hip Injury,High Blood Pressure,Bound Angle Pose,Caution
+45,107,Moderate,Back Pain,Pregnancy,Bound Angle Pose,Caution
+52,101,High,Herniated Disc,Arthritis,Bound Angle Pose,Avoid
+35,78,Moderate,Knee Injury,High Blood Pressure,Child’s Pose,Avoid
+36,93,High,None,Pregnancy,Bound Angle Pose,Avoid
+18,42,Moderate,Sciatica,None,Bound Angle Pose,Caution
+27,103,High,Hip Injury,Pregnancy,Bound Angle Pose,Caution
+60,52,High,Ankle Injury,Digestive Issues,Bound Angle Pose,Safe
+54,85,Moderate,Ankle Injury,High Blood Pressure,Child’s Pose,Caution
+23,60,Moderate,Hip Injury,Vertigo,Bound Angle Pose,Caution
+21,94,Low,Hip Injury,Arthritis,Bound Angle Pose,Caution
+29,53,Moderate,Hip Injury,None,Child’s Pose,Avoid
+63,96,Moderate,Herniated Disc,Digestive Issues,Child’s Pose,Caution
+65,87,Moderate,Sciatica,Arthritis,Bound Angle Pose,Avoid
+54,49,Moderate,Back Pain,High Blood Pressure,Bound Angle Pose,Caution
+58,108,High,Hip Injury,Pregnancy,Child’s Pose,Caution
+33,83,High,Knee Injury,High Blood Pressure,Child’s Pose,Caution
+24,70,Low,Sciatica,Digestive Issues,Child’s Pose,Safe
+60,84,Low,Knee Injury,Arthritis,Bound Angle Pose,Caution
+21,66,Low,Knee Injury,Vertigo,Bound Angle Pose,Avoid
+59,41,Moderate,None,Digestive Issues,Child’s Pose,Safe
+34,68,Low,Hip Injury,High Blood Pressure,Bound Angle Pose,Caution
+31,47,Low,Shoulder Pain,Pregnancy,Child’s Pose,Caution
+65,72,High,Back Pain,Digestive Issues,Child’s Pose,Caution
+31,50,Moderate,Hip Injury,Pregnancy,Bound Angle Pose,Avoid
+52,88,Low,Herniated Disc,None,Bound Angle Pose,Caution
+20,95,High,Hip Injury,Digestive Issues,Bound Angle Pose,Caution
+27,51,High,Shoulder Pain,Arthritis,Bound Angle Pose,Caution
+59,41,Moderate,Back Pain,Digestive Issues,Bound Angle Pose,Avoid
+60,61,Low,Herniated Disc,Vertigo,Bound Angle Pose,Caution
+49,85,Low,Sciatica,Vertigo,Bound Angle Pose,Caution
+41,116,Low,Shoulder Pain,Arthritis,Bound Angle Pose,Avoid
+21,63,Moderate,Sciatica,Pregnancy,Child’s Pose,Caution
+32,95,Low,Sciatica,None,Bound Angle Pose,Safe
+67,99,Moderate,Hip Injury,None,Child’s Pose,Avoid
+66,42,Moderate,Hip Injury,Vertigo,Bound Angle Pose,Caution
+42,88,High,Hip Injury,Arthritis,Bound Angle Pose,Avoid
+47,53,Low,Ankle Injury,Vertigo,Bound Angle Pose,Caution
+44,47,High,Knee Injury,Digestive Issues,Bound Angle Pose,Caution
+53,67,Low,Hip Injury,Vertigo,Child’s Pose,Caution
+33,46,Moderate,Hip Injury,Pregnancy,Child’s Pose,Caution
+27,112,Moderate,Knee Injury,None,Bound Angle Pose,Avoid
+57,85,High,Back Pain,Arthritis,Bound Angle Pose,Caution
+49,81,Low,Back Pain,High Blood Pressure,Child’s Pose,Caution
+36,98,Moderate,Sciatica,Vertigo,Bound Angle Pose,Avoid
+29,88,Moderate,None,None,Child’s Pose,Safe
+63,88,High,Sciatica,None,Child’s Pose,Caution
+19,101,Low,None,Vertigo,Child’s Pose,Avoid
+27,69,Low,Hip Injury,Vertigo,Child’s Pose,Caution
+64,102,Moderate,Hip Injury,High Blood Pressure,Bound Angle Pose,Caution
+62,65,Moderate,Shoulder Pain,Arthritis,Child’s Pose,Avoid
+25,90,Low,Back Pain,High Blood Pressure,Child’s Pose,Avoid
+68,61,Low,Back Pain,Arthritis,Bound Angle Pose,Caution
+43,43,Moderate,Sciatica,High Blood Pressure,Child’s Pose,Avoid
+41,102,Low,Herniated Disc,Pregnancy,Child’s Pose,Caution
+25,70,Low,Knee Injury,Pregnancy,Bound Angle Pose,Avoid
+54,86,Moderate,Sciatica,None,Bound Angle Pose,Safe
+67,62,Moderate,None,High Blood Pressure,Child’s Pose,Caution
+29,75,High,Shoulder Pain,Arthritis,Bound Angle Pose,Caution
+58,92,High,Ankle Injury,None,Bound Angle Pose,Safe
+67,106,High,Knee Injury,Vertigo,Bound Angle Pose,Caution
+49,57,Low,Herniated Disc,Pregnancy,Bound Angle Pose,Caution
+56,97,High,Knee Injury,None,Bound Angle Pose,Caution
+45,96,Moderate,None,None,Bound Angle Pose,Safe
+58,101,Low,Back Pain,Pregnancy,Child’s Pose,Caution
+30,100,Moderate,None,Vertigo,Bound Angle Pose,Avoid
+42,83,High,Ankle Injury,None,Bound Angle Pose,Safe
+23,70,Moderate,Hip Injury,Pregnancy,Child’s Pose,Avoid
+49,65,High,Shoulder Pain,Arthritis,Bound Angle Pose,Avoid
+60,41,Moderate,Sciatica,High Blood Pressure,Bound Angle Pose,Caution
+52,116,High,Herniated Disc,Vertigo,Child’s Pose,Avoid
+23,55,Moderate,Back Pain,None,Bound Angle Pose,Caution
+37,60,Moderate,Back Pain,Arthritis,Child’s Pose,Caution
+60,87,Moderate,Shoulder Pain,Arthritis,Bound Angle Pose,Caution
+24,52,Moderate,Knee Injury,None,Bound Angle Pose,Avoid
+56,68,Moderate,Ankle Injury,Digestive Issues,Child’s Pose,Caution
+33,61,Moderate,Hip Injury,Pregnancy,Child’s Pose,Caution
+21,112,High,Sciatica,Digestive Issues,Child’s Pose,Safe
+39,93,High,Knee Injury,Pregnancy,Child’s Pose,Caution
+42,70,Low,Shoulder Pain,Arthritis,Child’s Pose,Caution
+35,87,Moderate,None,Vertigo,Bound Angle Pose,Caution
+25,77,High,None,Digestive Issues,Child’s Pose,Safe
+43,92,Low,Ankle Injury,Vertigo,Bound Angle Pose,Avoid
+30,71,High,None,Arthritis,Bound Angle Pose,Avoid
+31,107,Moderate,Herniated Disc,None,Bound Angle Pose,Avoid
+31,116,Moderate,Shoulder Pain,High Blood Pressure,Child’s Pose,Avoid
+44,57,Low,Shoulder Pain,Arthritis,Bound Angle Pose,Caution
+44,54,High,Hip Injury,Vertigo,Child’s Pose,Avoid
+64,116,Moderate,Sciatica,None,Child’s Pose,Safe
+57,83,High,Sciatica,High Blood Pressure,Bound Angle Pose,Avoid
+20,93,Low,Shoulder Pain,Pregnancy,Bound Angle Pose,Avoid
+62,76,Low,Back Pain,Digestive Issues,Child’s Pose,Caution
+29,82,High,Shoulder Pain,Digestive Issues,Child’s Pose,Safe
+38,96,Moderate,Herniated Disc,Arthritis,Bound Angle Pose,Caution
+58,43,High,Back Pain,Digestive Issues,Child’s Pose,Avoid
+32,61,High,Shoulder Pain,Pregnancy,Child’s Pose,Avoid
+49,112,High,Back Pain,Pregnancy,Child’s Pose,Caution
+34,113,Low,Ankle Injury,None,Child’s Pose,Safe
+18,86,High,Shoulder Pain,Digestive Issues,Child’s Pose,Safe
+56,69,High,None,Vertigo,Child’s Pose,Avoid
+42,80,Low,Back Pain,None,Child’s Pose,Caution
+37,57,Moderate,Herniated Disc,None,Child’s Pose,Caution
+66,76,High,Herniated Disc,Pregnancy,Bound Angle Pose,Caution
+27,81,High,Back Pain,Vertigo,Bound Angle Pose,Caution
+48,97,High,Shoulder Pain,Pregnancy,Bound Angle Pose,Caution
+24,43,Low,Back Pain,Pregnancy,Bound Angle Pose,Caution
+61,66,Low,Herniated Disc,Vertigo,Child’s Pose,Avoid
+36,46,High,Herniated Disc,None,Child’s Pose,Caution
+35,92,Moderate,Ankle Injury,Pregnancy,Child’s Pose,Avoid
+29,49,High,None,Vertigo,Bound Angle Pose,Caution
+56,113,Moderate,Knee Injury,Digestive Issues,Bound Angle Pose,Caution
+40,80,Moderate,Back Pain,Arthritis,Bound Angle Pose,Avoid
+56,90,Low,Knee Injury,None,Child’s Pose,Avoid
+57,75,High,Hip Injury,High Blood Pressure,Bound Angle Pose,Caution
+49,86,Low,Sciatica,Vertigo,Child’s Pose,Caution
+44,116,Low,Back Pain,Vertigo,Child’s Pose,Avoid
+52,55,Moderate,Herniated Disc,Vertigo,Child’s Pose,Caution
+41,57,Low,Sciatica,Digestive Issues,Bound Angle Pose,Caution
+20,117,Moderate,Knee Injury,Arthritis,Child’s Pose,Caution
+40,92,Low,Knee Injury,Digestive Issues,Child’s Pose,Caution
+58,48,Low,Back Pain,Digestive Issues,Child’s Pose,Avoid
+50,54,Low,None,Vertigo,Child’s Pose,Avoid
+27,118,Moderate,None,None,Bound Angle Pose,Safe
+64,80,High,None,Digestive Issues,Bound Angle Pose,Caution
+34,97,Moderate,Herniated Disc,Arthritis,Bound Angle Pose,Caution
+63,56,Low,Hip Injury,High Blood Pressure,Child’s Pose,Caution
+40,100,High,Back Pain,High Blood Pressure,Child’s Pose,Caution
+66,62,High,Sciatica,None,Bound Angle Pose,Safe
+68,77,High,Sciatica,Digestive Issues,Bound Angle Pose,Safe
+23,75,Low,None,Vertigo,Bound Angle Pose,Caution
+29,42,High,Sciatica,High Blood Pressure,Bound Angle Pose,Caution
+53,82,High,Back Pain,High Blood Pressure,Bound Angle Pose,Avoid
+42,118,Moderate,Herniated Disc,Vertigo,Child’s Pose,Caution
+51,51,Low,None,None,Bound Angle Pose,Safe
+25,95,High,Hip Injury,Vertigo,Bound Angle Pose,Caution
+63,114,High,None,Arthritis,Bound Angle Pose,Avoid
+26,117,High,Knee Injury,Pregnancy,Child’s Pose,Caution
+27,44,High,Ankle Injury,Pregnancy,Child’s Pose,Avoid
+64,53,Low,None,Arthritis,Bound Angle Pose,Caution
+29,119,High,Shoulder Pain,Arthritis,Bound Angle Pose,Avoid
+52,87,High,None,None,Child’s Pose,Safe
+67,72,Moderate,None,High Blood Pressure,Child’s Pose,Caution
+51,111,High,Knee Injury,Digestive Issues,Bound Angle Pose,Caution
+19,79,Low,Ankle Injury,High Blood Pressure,Bound Angle Pose,Caution
+60,48,Moderate,None,Arthritis,Bound Angle Pose,Avoid
+23,117,High,Knee Injury,Pregnancy,Bound Angle Pose,Caution
+62,89,High,Herniated Disc,Pregnancy,Child’s Pose,Caution
+44,111,Low,Back Pain,Pregnancy,Child’s Pose,Caution
+56,87,High,Back Pain,None,Child’s Pose,Avoid
+46,69,Low,Back Pain,High Blood Pressure,Child’s Pose,Caution
+60,105,Low,Knee Injury,Vertigo,Bound Angle Pose,Caution
+46,114,Moderate,Ankle Injury,Vertigo,Bound Angle Pose,Caution
+45,116,Moderate,Hip Injury,High Blood Pressure,Child’s Pose,Avoid
+25,71,High,Hip Injury,Vertigo,Bound Angle Pose,Caution
+19,111,Moderate,Herniated Disc,Pregnancy,Bound Angle Pose,Avoid
+19,87,Low,Knee Injury,Vertigo,Bound Angle Pose,Avoid
+42,93,Moderate,Knee Injury,None,Bound Angle Pose,Caution
+55,40,High,Back Pain,None,Child’s Pose,Caution
+25,114,Low,Ankle Injury,High Blood Pressure,Child’s Pose,Avoid
+25,53,High,Knee Injury,Arthritis,Child’s Pose,Avoid
+38,109,Low,Back Pain,Digestive Issues,Bound Angle Pose,Caution
+18,101,Low,Back Pain,Vertigo,Bound Angle Pose,Caution
+20,72,Low,Sciatica,None,Child’s Pose,Safe
+31,73,Low,Back Pain,Pregnancy,Bound Angle Pose,Caution
+57,87,Low,Knee Injury,Arthritis,Child’s Pose,Caution
+64,110,Moderate,Sciatica,Pregnancy,Child’s Pose,Caution
+54,118,Low,Knee Injury,Pregnancy,Bound Angle Pose,Avoid
+64,52,Low,Sciatica,High Blood Pressure,Child’s Pose,Caution
+31,82,Moderate,Hip Injury,None,Child’s Pose,Caution
+38,110,Moderate,Knee Injury,Digestive Issues,Child’s Pose,Caution
+53,67,High,Shoulder Pain,Vertigo,Bound Angle Pose,Caution
+48,109,High,Shoulder Pain,Vertigo,Child’s Pose,Avoid
+35,42,High,Knee Injury,Pregnancy,Child’s Pose,Caution
+34,63,Moderate,Sciatica,Pregnancy,Child’s Pose,Avoid
+20,72,High,Back Pain,Digestive Issues,Child’s Pose,Caution
+52,119,High,Knee Injury,Vertigo,Bound Angle Pose,Caution
+52,112,High,Shoulder Pain,None,Bound Angle Pose,Safe
+56,69,Low,Sciatica,None,Bound Angle Pose,Safe
+55,63,Moderate,Shoulder Pain,Digestive Issues,Child’s Pose,Caution
+44,59,Moderate,Sciatica,None,Child’s Pose,Safe
+20,49,High,Sciatica,Pregnancy,Child’s Pose,Caution
+50,89,Moderate,Knee Injury,Pregnancy,Child’s Pose,Caution
+21,88,Low,Hip Injury,Vertigo,Child’s Pose,Caution
+33,89,Moderate,Shoulder Pain,Pregnancy,Bound Angle Pose,Caution
+23,67,Moderate,Herniated Disc,None,Bound Angle Pose,Caution
+67,50,Moderate,Herniated Disc,Digestive Issues,Bound Angle Pose,Avoid
+45,55,High,Hip Injury,Pregnancy,Child’s Pose,Caution
+30,93,Moderate,None,Pregnancy,Child’s Pose,Caution
+62,66,Low,Back Pain,Vertigo,Bound Angle Pose,Caution
+36,74,Moderate,Hip Injury,Pregnancy,Bound Angle Pose,Avoid
+25,44,Low,Shoulder Pain,High Blood Pressure,Child’s Pose,Avoid
+27,44,High,Sciatica,High Blood Pressure,Child’s Pose,Caution
+55,53,High,Back Pain,Pregnancy,Bound Angle Pose,Avoid
+47,110,Low,Sciatica,Vertigo,Bound Angle Pose,Caution
+67,97,Low,Knee Injury,Arthritis,Bound Angle Pose,Avoid
+39,73,Low,Hip Injury,None,Bound Angle Pose,Caution
+36,94,High,None,Pregnancy,Child’s Pose,Caution
+26,59,High,Back Pain,None,Bound Angle Pose,Caution
+20,44,High,Ankle Injury,Pregnancy,Child’s Pose,Caution
+29,103,Low,Shoulder Pain,None,Bound Angle Pose,Safe
+44,102,Moderate,Sciatica,High Blood Pressure,Bound Angle Pose,Caution
+56,102,Low,Knee Injury,None,Child’s Pose,Caution
+62,112,Moderate,None,High Blood Pressure,Bound Angle Pose,Avoid
+21,67,Moderate,Knee Injury,Pregnancy,Child’s Pose,Avoid
+52,117,Moderate,Ankle Injury,Pregnancy,Bound Angle Pose,Avoid
+44,67,Low,Ankle Injury,None,Child’s Pose,Caution
+35,112,High,Ankle Injury,Vertigo,Bound Angle Pose,Avoid
+52,59,High,Ankle Injury,High Blood Pressure,Bound Angle Pose,Avoid
+26,100,Moderate,Shoulder Pain,None,Bound Angle Pose,Safe
+52,99,Moderate,Hip Injury,None,Bound Angle Pose,Caution
+28,92,Moderate,Hip Injury,Pregnancy,Bound Angle Pose,Avoid
+20,88,Low,Shoulder Pain,Pregnancy,Child’s Pose,Caution
+29,111,Moderate,Knee Injury,None,Child’s Pose,Caution
+34,42,Low,Ankle Injury,Arthritis,Child’s Pose,Caution
+45,69,Moderate,Herniated Disc,Digestive Issues,Bound Angle Pose,Caution
+27,90,Moderate,Hip Injury,Digestive Issues,Child’s Pose,Caution
+50,96,Moderate,Shoulder Pain,Pregnancy,Bound Angle Pose,Caution
+37,72,High,Knee Injury,Arthritis,Child’s Pose,Caution
+26,119,Moderate,Hip Injury,Pregnancy,Bound Angle Pose,Caution
+25,64,Low,Ankle Injury,None,Bound Angle Pose,Safe
+44,105,Moderate,Shoulder Pain,Arthritis,Bound Angle Pose,Caution
+60,110,Low,Shoulder Pain,High Blood Pressure,Bound Angle Pose,Caution
+56,54,High,Herniated Disc,Digestive Issues,Bound Angle Pose,Avoid
+59,115,High,Shoulder Pain,Arthritis,Child’s Pose,Caution
+57,61,Moderate,None,Pregnancy,Child’s Pose,Caution
+54,45,Moderate,Shoulder Pain,High Blood Pressure,Child’s Pose,Caution
+67,105,High,Hip Injury,High Blood Pressure,Child’s Pose,Caution
+59,87,High,Sciatica,High Blood Pressure,Child’s Pose,Caution
+36,94,Moderate,Hip Injury,High Blood Pressure,Bound Angle Pose,Caution
+67,63,Moderate,Shoulder Pain,Digestive Issues,Bound Angle Pose,Caution
+28,114,High,Knee Injury,Arthritis,Child’s Pose,Caution
+47,117,Low,None,Vertigo,Bound Angle Pose,Caution
+32,109,Low,Sciatica,High Blood Pressure,Child’s Pose,Caution
+68,42,Moderate,Hip Injury,Vertigo,Child’s Pose,Avoid
+50,77,Low,Back Pain,Pregnancy,Child’s Pose,Avoid
+62,91,Low,Ankle Injury,None,Child’s Pose,Safe
+60,113,Moderate,Herniated Disc,Arthritis,Bound Angle Pose,Caution
+45,115,High,Knee Injury,Vertigo,Child’s Pose,Avoid
+53,109,Low,Knee Injury,Arthritis,Child’s Pose,Caution
+39,83,Low,Sciatica,Vertigo,Bound Angle Pose,Caution
+54,44,Moderate,Back Pain,Arthritis,Bound Angle Pose,Avoid
+27,111,Low,Shoulder Pain,Arthritis,Bound Angle Pose,Caution
+24,79,Low,Back Pain,Pregnancy,Child’s Pose,Avoid
+40,107,Moderate,Herniated Disc,Arthritis,Bound Angle Pose,Caution
+47,79,High,Hip Injury,Arthritis,Child’s Pose,Avoid
+61,115,Moderate,Shoulder Pain,Digestive Issues,Bound Angle Pose,Safe
+63,75,High,Sciatica,Digestive Issues,Bound Angle Pose,Safe
+55,71,Moderate,Knee Injury,Vertigo,Child’s Pose,Avoid
+36,68,Moderate,Back Pain,Vertigo,Bound Angle Pose,Caution
+39,50,High,Ankle Injury,Vertigo,Bound Angle Pose,Avoid
+46,49,Moderate,Knee Injury,Pregnancy,Child’s Pose,Caution
+61,100,Low,Sciatica,Digestive Issues,Bound Angle Pose,Safe
+49,51,Moderate,Knee Injury,Digestive Issues,Child’s Pose,Avoid
+40,112,Moderate,Back Pain,None,Child’s Pose,Avoid
+29,82,High,Knee Injury,None,Bound Angle Pose,Avoid
+59,72,Low,Sciatica,None,Child’s Pose,Safe
+29,52,High,Back Pain,High Blood Pressure,Child’s Pose,Caution
+49,107,High,Herniated Disc,Vertigo,Bound Angle Pose,Avoid
+38,42,High,Hip Injury,Arthritis,Bound Angle Pose,Avoid
+34,106,Low,Herniated Disc,Pregnancy,Child’s Pose,Caution
+53,107,Moderate,Hip Injury,Digestive Issues,Child’s Pose,Caution
+41,111,High,Knee Injury,Vertigo,Child’s Pose,Avoid
+41,92,Low,None,Pregnancy,Bound Angle Pose,Avoid
+59,49,Moderate,Sciatica,None,Bound Angle Pose,Safe
+28,45,High,Herniated Disc,Pregnancy,Child’s Pose,Caution
+32,81,High,Shoulder Pain,Arthritis,Bound Angle Pose,Caution
